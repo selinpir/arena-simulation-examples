@@ -1,6 +1,8 @@
-# Arena Simülasyon Örnekleri
+# Arena Simülasyon Çalışmaları
 
-Arena ile hazırladığım üretim ve hizmet süreci simülasyonlarını bu repoda topladım. Sekiz farklı senaryoya ait model dosyaları ve simülasyon sonuç raporları bulunuyor.
+Udemy üzerinden takip ettiğim Arena eğitimi kapsamında uyguladığım örnekleri bu repoda topladım. Senaryolar eğitim içeriğine aittir; repo, bu örnekler üzerinde yaptığım uygulamaları ve simülasyon sonuç raporlarını içerir.
+
+Çalışmalar; atölye, havaalanı güvenliği, elektronik parça üretimi, fırın, yemekhane, acil servis ve fabrika süreçlerini kapsıyor.
 
 ## Modeller
 
